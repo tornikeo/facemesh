@@ -1,2 +1,0 @@
-# facemesh
-Created with CodeSandbox
